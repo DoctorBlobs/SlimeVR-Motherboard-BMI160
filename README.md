@@ -11,7 +11,7 @@ This is a project to make it easier to create SlimeVR trackers. This project red
 
 ## Parts and Setup
 
-These PCB's use the official SlimeVR [Components](https://docs.slimevr.dev/diy/components-guide.html) and [Tracker Schematics](https://docs.slimevr.dev/diy/tracker-schematics.html). The PCB is compatible with either the BNO08X or MPU6050 IMU's and has locations for optional Battery Sense resistors and Charge Diodes. With this PCB, you will only need wire for connecting the IMU's. 
+These PCB's use the official SlimeVR [Components](https://docs.slimevr.dev/diy/components-guide.html) and [Tracker Schematics](https://docs.slimevr.dev/diy/tracker-schematics.html). The PCB is compatible with The BMI160 and has locations for optional Battery Sense resistors and Charge Diodes. With this PCB, you will only need wire or a JST Connector for connecting the IMU's. 
 
 All of the parts below are linked in the SlimeVR [Components](https://docs.slimevr.dev/diy/components-guide.html) guide.
 This PCB is made for use with the following parts:
@@ -20,7 +20,7 @@ This PCB is made for use with the following parts:
  - TP4056 Charging Board (any connector)
  - 3.7V Batteries
  - SS22F32 DPDT Switch
- - Either BNO08X or MPU6050 IMU's
+ - BMI160
  - (Optional) 180k ohm Battery Sense Resistor
  - (Optional) 1N5817 Charge Diodes
 
