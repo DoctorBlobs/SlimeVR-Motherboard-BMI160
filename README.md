@@ -1,4 +1,4 @@
-# SlimeVR Motherboard BMI 160
+# SlimeVR Motherboard BMI 160 (UNTESTED)
 
 This is a project to make it easier to create SlimeVR trackers. This project reduces the amount of cable management needed when making SlimeVR trackers by providing a PCB that can be made for only $2. Beginner instructions on how to buy a PCB are below. Total cost should be around $55-60 for an enhanced core set excluding the cost of cases and straps.
 
@@ -26,8 +26,16 @@ This PCB is made for use with the following parts:
  - (Optional) 180k ohm Battery Sense Resistor
  - (Optional) 1N5817 Charge Diodes
 
-3D printable cases for the SlimeVR Trackers are included in this repo. They require no supports and no hardware to put together. See the STL Files and Description below
+## Case Assembly and STL
 
+3D printable cases for the SlimeVR Trackers are included in this repo.
+For printing this it's reccomended to use supports everywhere and have 20mm with 15% infil.
+
+The Case consists of:
+- The Main Case
+- The Extention Case
+- Supports for the Main Case to hold up the PCB
+ 
 ## PCB Files
 
 All PCB files are included in this repo in the KiCAD Schematic Folder. Please feel free to modify them as you see fit. KiCAD was use to create this project which is a free and opensource tool to create PCB's. 
@@ -40,7 +48,7 @@ All PCB files are included in this repo in the KiCAD Schematic Folder. Please fe
 This project is based on the work from the lovely people in the SlimeVR Discord server and this Github Repo:
 https://github.com/alecjprobst/SlimeVRMotherboard (For more Info and Instructions!)
 
-Hope this Helps someone that wants to make Slimes on the cheap!
+Hope this Helps someone that wants to make Slimes on the cheap! (If I have the Time and Money I'll try to make a DIY Video on how to make them!)
 
 
 
