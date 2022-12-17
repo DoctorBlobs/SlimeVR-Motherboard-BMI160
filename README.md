@@ -30,13 +30,10 @@ This PCB is made for use with the following parts:
 
 All PCB files are included in this repo in the KiCAD Schematic Folder. Please feel free to modify them as you see fit. KiCAD was use to create this project which is a free and opensource tool to create PCB's. 
 
-Top PCB
-![Schematics](/Images/top.svg)
-Bottom PCB
-![Schematics](/Images/bottom.svg)
+- [SlimeVR BMI160 PCB](/Gerber/) - A Modified version of [SlimeVRMotherboard by alecjprobst](https://github.com/alecjprobst/SlimeVRMotherboard).
+ ![3d render](/Images/top.svg)
 
 ## Credit
-
 This project is based on the work from the lovely people in the SlimeVR Discord server and this Github Repo:
 https://github.com/alecjprobst/SlimeVRMotherboard (For more Info and Instructions!)
 
