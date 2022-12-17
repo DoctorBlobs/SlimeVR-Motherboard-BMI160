@@ -42,7 +42,7 @@ All PCB files are included in this repo in the KiCAD Schematic Folder. Please fe
 
 - [SlimeVR BMI160 PCB](/Gerber/) - A Modified version of [SlimeVRMotherboard by alecjprobst](https://github.com/alecjprobst/SlimeVRMotherboard).
 
- <img src="https://github.com/DoctorBlobs/SlimeVR-Motherboard-BMI160/blob/Main/Images/Top.svg" width="400" height="400">
+ <img src="https://github.com/DoctorBlobs/SlimeVR-Motherboard-BMI160/blob/Main/Images/Top.png" width="400" height="400">
 
 ## Credit
 This project is based on the work from the lovely people in the SlimeVR Discord server and this Github Repo:
