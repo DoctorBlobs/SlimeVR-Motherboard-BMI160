@@ -31,6 +31,7 @@ This PCB is made for use with the following parts:
 All PCB files are included in this repo in the KiCAD Schematic Folder. Please feel free to modify them as you see fit. KiCAD was use to create this project which is a free and opensource tool to create PCB's. 
 
 - [SlimeVR BMI160 PCB](/Gerber/) - A Modified version of [SlimeVRMotherboard by alecjprobst](https://github.com/alecjprobst/SlimeVRMotherboard).
+- 
  ![3d render](/Images/top.svg)
 
 ## Credit
