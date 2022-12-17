@@ -16,11 +16,13 @@ These PCB's use the official SlimeVR [Components](https://docs.slimevr.dev/diy/c
 All of the parts below are linked in the SlimeVR [Components](https://docs.slimevr.dev/diy/components-guide.html) guide.
 This PCB is made for use with the following parts:
 
- - D1 Mini
- - TP4056 Charging Board (any connector)
- - 3.7V Batteries
- - SS22F32 DPDT Switch
- - BMI160
+ - D1 Mini(https://www.aliexpress.com/item/32631693796.html)
+ - BMI 160(https://nl.aliexpress.com/item/4000052683444.html)
+ - TP4056 Charging Board (any connector) (https://www.aliexpress.com/item/32930640893.html)
+ - 3.7V Batteries(https://www.amazon.nl/ZYGY-1200mAh-lithium-batterij-quadrotor-drone/dp/B08KZKGLW8)
+ - SS22F32 DPDT Switch (https://nl.aliexpress.com/item/1005003660190950.html
+ - JST 5 pin Right Angle (For Extentions) (https://www.aliexpress.com/item/33008489410.html)
+ - JST 2 pin Right Angle (For the Batteries) (https://www.aliexpress.com/item/33008489410.html)
  - (Optional) 180k ohm Battery Sense Resistor
  - (Optional) 1N5817 Charge Diodes
 
