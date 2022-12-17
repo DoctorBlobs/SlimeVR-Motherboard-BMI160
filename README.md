@@ -30,7 +30,9 @@ This PCB is made for use with the following parts:
 
 All PCB files are included in this repo in the KiCAD Schematic Folder. Please feel free to modify them as you see fit. KiCAD was use to create this project which is a free and opensource tool to create PCB's. 
 
+Top PCB
 ![Schematics](/Images/top.svg)
+Bottom PCB
 ![Schematics](/Images/bottom.svg)
 
 ## Credit
