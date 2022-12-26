@@ -21,7 +21,8 @@ This PCB is made for use with the following parts:
  - TP4056 Charging Board (any connector) (https://www.aliexpress.com/item/32930640893.html)
  - 3.7V Batteries(https://www.amazon.nl/ZYGY-1200mAh-lithium-batterij-quadrotor-drone/dp/B08KZKGLW8)
  - SS22F32 DPDT Switch (https://nl.aliexpress.com/item/1005003660190950.html
- - JST 5 pin Right Angle (For Extentions) (https://www.aliexpress.com/item/33008489410.html)
+ - JST 4 Pin Connectors (https://nl.aliexpress.com/item/4001171977947.html)
+ - JST 4 pin Right Angle (For Extentions) (https://www.aliexpress.com/item/33008489410.html)
  - JST 2 pin Right Angle (For the Batteries) (https://www.aliexpress.com/item/33008489410.html)
  - (Optional) 180k ohm Battery Sense Resistor
  - (Optional) 1N5817 Charge Diodes
